@@ -1,6 +1,7 @@
 #ロボットシステム学　課題 
 ###行ったこと
 デバイスファイルにメッセージを送り、デバイスファイルからメッセージを出力。<br>
+YouTube : https://youtu.be/vhDq4I0WyEE
 ###使い方<br>
 事前にカーネルの再構築が必要。<br>
 参考:https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts.git<br>
