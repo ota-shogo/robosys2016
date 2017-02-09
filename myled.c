@@ -25,7 +25,7 @@
 #include <linux/io.h>
 
 MODULE_AUTHOR("Shogo Ota ");
-MODULE_DESCRIPTION("driver for LED control");
+MODULE_DESCRIPTION("Driver for output message to device file");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
 
