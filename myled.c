@@ -29,6 +29,11 @@ MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
 
+/*
+At first,this program was written by Ryuichi Ueda.
+And,cloned from "https://github.com/ryuichiueeda/robosys_device_drivers".
+Then,it was revised by Shogo Ota
+*/
 
 static dev_t dev;
 static struct cdev cdv;
